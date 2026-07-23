@@ -33,7 +33,7 @@ Copy the full text for the prompt labeled "Hire Your AI Web Design Agency". (It'
 Prompt: Hire Your AI Web Design Agency Copy
 
 ```
-
+(Replace this text with the prompt text.)
 ```
 
 ## Step 6: Submit the link to your repository in Canvas
