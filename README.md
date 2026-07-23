@@ -36,6 +36,8 @@ Prompt: Hire Your AI Web Design Agency Copy
 (Replace this text with the prompt text.)
 ```
 
+Saving your own version of prompts allows you to customize and make changes.
+
 ## Step 6: Submit the link to your repository in Canvas
 
 Copy the address from your browser url window and submit it in Canvas.
