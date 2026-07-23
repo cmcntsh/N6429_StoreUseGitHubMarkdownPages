@@ -18,6 +18,10 @@ This video shows how to edit a GitHub README.md page.
 
 [How to Edit GitHub Readme File](https://youtu.be/U3_JcfZnlyM?si=drfOg8PzOOtiQxnT&t=74) The relevant part starts at time 1:14. The edit ends at time 2:00. (You don't need to watch the rest.)
 
+Markdown makes organizating a prompt library easy. Code blocks are a great way to store prompts for AI. When the Markdown page renders, code blocks have a copy button that makes copying the prompt quick and easy.
+
+<img width="874" height="84" alt="image" src="https://github.com/user-attachments/assets/ffd139e7-8127-4fb4-866c-1c080ed804bf" />
+
 ## Step 4: Copy the Prompt Text
 
 Copy the full text for the prompt labeled "Hire Your AI Web Design Agency". (It's a long prompt. You'll need to click on the READ MORE button to see the full text.)
@@ -29,7 +33,7 @@ Copy the full text for the prompt labeled "Hire Your AI Web Design Agency". (It'
 Prompt: Hire Your AI Web Design Agency Copy
 
 ```
-print ("Example Code Here")
+
 ```
 
 ## Step 6: Submit the link to your repository in Canvas
