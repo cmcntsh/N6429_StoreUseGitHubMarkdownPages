@@ -12,7 +12,7 @@ Navigate to the [Create a Website with ChatGPT](https://ferdy.com/youtube-tutori
 
 This video provides a nice introduction to GitHub Markdown.
 
-[Getting Started with Makedown in GitHub](https://www.youtube.com/watch?v=LxeclcePg-c) Pay special attention to the Format code snippets section starting at time 3:54.
+[Getting Started with Markdown in GitHub](https://www.youtube.com/watch?v=LxeclcePg-c) Pay special attention to the Format code snippets section starting at time 3:54.
 
 This video shows how to edit a GitHub README.md page.
 
